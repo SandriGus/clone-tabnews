@@ -1,4 +1,5 @@
 root = true
+
 [*] # Significa que essas regras valem para todos os arquivos
 
 indent_style = space
